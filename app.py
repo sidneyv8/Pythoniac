@@ -1,6 +1,4 @@
-print("hello wolrd....!")
 
-
-print("*"  * 20)
+print ("hello world")
 
 
